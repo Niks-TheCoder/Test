@@ -63,7 +63,7 @@ Once the application is running, you can interact with the chatbot through the w
 ## Intents Data
 The chatbot's behavior is defined by the `intents.json` file, which contains various tags, patterns, and responses. You can modify this file to add new intents or change existing ones.
 
----
+----
 
 ## Conversation History
 The chatbot saves the conversation history in a CSV file (`chat_log.csv`). You can view past interactions by selecting the "Conversation History" option in the sidebar.

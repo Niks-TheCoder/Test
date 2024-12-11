@@ -50,7 +50,7 @@ def main():
     st.title("Intents of Chatbot using NLP")
 
     # Create a sidebar menu with options
-    menu = ["Home",  "Conversation History", "About"]
+    menu = ["Home", "Conversation History", "About"]
     choice = st.sidebar.selectbox("Menu", menu)
 
     # Home Menu
